@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jplensolo.github.io/gh-pages_2/sitemap.xml

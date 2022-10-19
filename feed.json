@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mon hobby pour l&#x27;informatique",
+    "description": "",
+    "home_page_url": "https://jplensolo.github.io/gh-pages_2",
+    "feed_url": "https://jplensolo.github.io/gh-pages_2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "JP LOISEL"
+    },
+    "items": [
+        {
+            "id": "https://jplensolo.github.io/gh-pages_2/ma-passion-pour-linformatique.html",
+            "url": "https://jplensolo.github.io/gh-pages_2/ma-passion-pour-linformatique.html",
+            "title": "Ma passion pour l&#x27;informatique",
+            "summary": "Elle est née dès le moment où j'ai possédé un ordinateur. Mes ordinateurs successifs ont été: Commodore 64 - Amiga 500 - puis je suis passé aux PC avec 2 portables HP. Je suis un autodidacte \"curieux\" et \"touche à tout\". J' entend par là&hellip;",
+            "content_html": "<p>Elle est née dès le moment où j'ai possédé un ordinateur. Mes ordinateurs successifs ont été:  Commodore 64 - Amiga 500 -  puis je suis passé aux PC avec 2 portables HP.<br><br>Je suis un autodidacte \"curieux\" et \"touche à tout\". J' entend par là ma curiosité vis à vis de l'internet et mes goûts pluridisciplinaires.<br><br>Je regarde énormément de vidéos YouTube, en français essentiellement, mais aussi en anglais.<br><br>Cela me sert pour me documenter, et éventuellement télécharger et tester les logiciels opensource et gratuits sélectionnés.<br><br>Mes logiciels installés et gardés, je les utilise aussi souvent que j'en ressent le besoin .<br><br>Mes passions actuelles restent le graphisme sous ses formes 2D et 3D, les statistiques et le Machine Learning( apprentissage automatique).<br><br>Sont venues s'ajouter dernièrement la CAO 3D, les BDD et la programmation.<br><br><br><br>Notez que de base mon intéressement pour le graphisme ne s'est jamais éteint. Il avait commencé avec mon utilisation des machines anciennes de la marque Commodore, le C64 et L'AMIGA( que de chemin parcouru depuis !). Quand j'en suis venu sur PC, le logiciel Photofilte m'a convaincu et j'en suis venu alors à l'achat d'une licence pour Photofiltre Studio.<br>Mais les limites de ce logiciel m'ont amené à regarder du côté de The Gimp, et ensuite de passer à l'achat de 2 logiciels vraiment \"super\" selon moi que sont Affinity Photo pour la photographie et Affinity Designer pour sa concurrence au célébrissime Adobe Illustrator.<br><br>Du côté Programmation, j'avais commencé sur Commodore l'étude du langage Basic et également le Fortran. J'avais laissé tomber et ai repris l'étude de langages de façon assez poussée en étudiant le langage C. Mon goût pour les statistiques et la programmation pure m'ont amené à voir du côté du Python et du langage R.<br><br>la découverte des langages HTML et CSS,  puis du langage Javascript ont été pour moi les prémices au désir de créer de façon naturelle ce site ou Blog.</p>\n<p>Étant désireux de m'initier au développement WEB, j'ai pensé que créer un site WEB ou un Blog serait enrichissant pour moi.<br><br>Malheureusement, je n'en suis qu'aux balbutiements et ne veux pas investir d'argent pour cette tâche. Donc ce site ou Blog personnel, je dois le créer en utilisant un hébergement gratuit et également un nom de domaine gratuit. Celui-ci restera sans prétentions pécuniaires.<br><br>Mon site sera  très prochainement créé avec le CMS statique Publii, en le reliant  aux pages Github gratuites depuis mon compte Github.<br><br>Pour l'instant, je tente l'expérience  préparatoire sur le site du Blogger en me contentant de créer plusieurs articles relatifs à:<br><br>    Vie scolaire et professionnelle - Mon matériel informatique - Mes softwares - Ma passion pour l'informatique.<br><br>Si cette expérience me donne satisfaction, je passerai à Publii pour fignoler le site en ajoutant une page d'accueil avec des menus renvoyant aux différents articles  du site actuel et en créant par la suite de nouvelles pages de blog.<br><br>Mon futur site devrait s'appeler Mon Hobby pour l'informatique et devrait comporter un Blog avec des pages de blog</p>\n<p>A bientôt !<br><br> <br><br> <br><br></p>",
+            "author": {
+                "name": "JP LOISEL"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T08:43:40+02:00",
+            "date_modified": "2022-10-19T08:43:40+02:00"
+        },
+        {
+            "id": "https://jplensolo.github.io/gh-pages_2/mes-softwares.html",
+            "url": "https://jplensolo.github.io/gh-pages_2/mes-softwares.html",
+            "title": "Mes softwares",
+            "summary": "Ceux-ci sont rangés dans des dossiers sur mon bureau Windows. Pour protéger tout mon système, j'ai acheté et mis en place un antivirus total chez G-DATA SOFTWARE Voici mes dossiers et leurs contenus: essentiellement des logiciels opensource QI GONG: 3livres * Qi Gong Vivre longtemps&hellip;",
+            "content_html": "<p>Ceux-ci sont rangés dans des dossiers sur mon bureau Windows.<br><br>Pour protéger tout mon système, j'ai acheté  et mis en place un antivirus total chez G-DATA SOFTWARE<br><br>Voici mes dossiers et leurs contenus: essentiellement des logiciels opensource<br><br><strong>QI GONG</strong>: 3livres * Qi Gong Vivre longtemps en bonne santé de Martine Bosc<br><br>                                * Qi Gong anti-âge du docteur Yves Réquéna<br><br>                                * Entrez dans la pratique du Qi Gong de Ke Wen<br><br>                    extraits de sites YouTube sur le Qi Gong<br><br><strong>CARTOGRAPHIE:</strong> Philcarto - Phildigit - Eclats - Qgis <br><br><strong>SON et VIDEO:</strong> Audacity - Da Vinci Resolve - VLC media player<br><br><strong>ANIMATION:</strong> Synfig studio - Opentoon Z- Pencil 2D - Unfreez(gifs animés) - Papagayo<br><br><strong>GRAPHISME:</strong> Affinity Photo et Affinity Designer(achetés) - Blender 3D - Gimp- Inkscape<br><br>                        Fastone image viewer - Krita - Paint - Photoscope - Darktable<br><br><strong>STATISTIQUES:</strong> PSPP - Jasp - Python- R - Machine Learning<br><br><strong>CAO 2D et 3D:</strong> Autodesk Fusion 360 - Freecad - Librecad - M4 Personal - Meshmixer -                         Openscad - Meshlab<br><br><strong>BUREAUTIQUE:</strong> Suite Libre Office - Scribus<br><br> <strong>BDD:</strong> Heidisql - Mysql - Mysql Workbench<br><br><strong>PROGRAMMATION:</strong> Python - Suite Anaconda - Orange - R et RStudio - Rcode - Weka<br><br><strong>WEB:</strong> Brackets - Local - Publii - Sublime text - Visual Studio Code<br><br><strong>UTILITAIRES:</strong> Adobe Acrobat DC - le gestionnaire de l'antivirus - 7Z - Greenshot -                                  Power media player <br><br><strong>NAVIGATEURS WEB</strong>: Google Chrome - Mozilla Firefox - Microsoft Edge<br><br><strong>UTILITAIRES IMPRIMANTE:</strong> série CANON  TR4550                                </p>",
+            "author": {
+                "name": "JP LOISEL"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T08:32:54+02:00",
+            "date_modified": "2022-10-19T08:32:54+02:00"
+        },
+        {
+            "id": "https://jplensolo.github.io/gh-pages_2/mon-materiel-informatique.html",
+            "url": "https://jplensolo.github.io/gh-pages_2/mon-materiel-informatique.html",
+            "title": "Mon matériel informatique",
+            "summary": "un ordinateur portable HP avec processeur Intel Core I5, écran de 17 pouces. un disque dur de 500 Mo dont 100 Mo SSD(partition C) et une partition D pour les données une partition Google Drive. 8 Go de mémoire RAM un disque dur externe usb&hellip;",
+            "content_html": "<p>un ordinateur portable HP avec processeur Intel Core I5, écran de 17 pouces.<br><br>un disque dur de 500 Mo dont 100 Mo SSD(partition C) et une partition D pour les données<br><br>une partition Google Drive.<br><br>8 Go de mémoire RAM<br><br>un disque dur externe usb de marque WD de 500 Mo<br><br>une carte video entrée de gamme ATI RADEON avec 1 Mo de mémoire RAM<br><br>son classique pour ordinateur portable multimédia<br><br>une souris sans fil LOGITECH MX MASTER usb avec dongle<br><br>un casque stereo JBL<br><br>un multiplicateur usb D-LINK<br><br>une tablette graphique HUION INSPIROY Q 620M<br><br>une imprimante usb et WIFI CANON TR 4550<br><br>système exploitation Windows 11 édition familiale (Windows 10 migré)<br><br><br><span style=\"text-decoration: underline;\"><strong>Conclusion: </strong></span> cette configuration peu compliquée suffit pour mon usage de hobbyiste curieux.</p>\n<p><br>Vous verrez dans la page Mes Softwares ma polyvalence quant aux  domaines pratiqués.</p>",
+            "author": {
+                "name": "JP LOISEL"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T08:26:05+02:00",
+            "date_modified": "2022-10-19T08:26:05+02:00"
+        },
+        {
+            "id": "https://jplensolo.github.io/gh-pages_2/vie-scolaire-et-professionnelle.html",
+            "url": "https://jplensolo.github.io/gh-pages_2/vie-scolaire-et-professionnelle.html",
+            "title": "Vie scolaire et professionnelle",
+            "summary": "Vie scolaire: école primaire de Tortequesne (62) Lycée de garçons de Douai(59) jusqu'au BAC D Faculté de Lille(59) DEUG en Chimie Biologie 2 ans Faculté de Dijon(21) Formation mixte: École de Chimie et Maîtrise de chimie partielle C1, C2, C3 et une partie du C4&hellip;",
+            "content_html": "<p><span style=\"text-decoration: underline;\"><strong>Vie scolaire: </strong></span><br>école primaire de Tortequesne (62)<br>Lycée de garçons de Douai(59) jusqu'au BAC D<br>Faculté de Lille(59) DEUG en Chimie Biologie 2 ans<br>Faculté de Dijon(21) Formation mixte: École de Chimie et Maîtrise de chimie partielle<br>                                     C1, C2, C3 et une partie du C4  2 ans<br>Faculté de Lille(59) fin du C4 de la maîtrise de Chimie 1 an</p>\n<p><br><span style=\"text-decoration: underline;\"><strong> Vie professionnelle:</strong></span><br>Toute ma carrière s'est faite dans la branche des peintures industrielles, tout d'abord en Technicien spécialisé, puis en Responsable du Laboratoire de conformité des produits finis pour la branche Industrie générale.<br>Ma société initiale Blancomme (siège à Pont de Claix 38 et usine de Sedan 08) a subi de nombreux rachats jusqu'à l'âge de ma retraite. Entre-autre j'ai été muté sur le site de Vernis Soudée à Fleury Merogis(91) qui elle aussi a subi de multiples rachats.<br>Je suis retraité depuis 2010.</p>",
+            "author": {
+                "name": "JP LOISEL"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T08:23:54+02:00",
+            "date_modified": "2022-10-19T08:23:54+02:00"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jplensolo.github.io/gh-pages_2/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jplensolo.github.io/gh-pages_2/</loc>
+</url>
+<url>
+<loc>https://jplensolo.github.io/gh-pages_2/ma-passion-pour-linformatique.html</loc>
+<lastmod>2022-10-19T08:43:40+02:00</lastmod>
+</url>
+<url>
+<loc>https://jplensolo.github.io/gh-pages_2/mes-softwares.html</loc>
+<lastmod>2022-10-19T08:32:54+02:00</lastmod>
+</url>
+<url>
+<loc>https://jplensolo.github.io/gh-pages_2/mon-materiel-informatique.html</loc>
+<lastmod>2022-10-19T08:26:05+02:00</lastmod>
+</url>
+<url>
+<loc>https://jplensolo.github.io/gh-pages_2/vie-scolaire-et-professionnelle.html</loc>
+<lastmod>2022-10-19T08:23:54+02:00</lastmod>
+</url>
+</urlset>
